@@ -4,4 +4,6 @@ Dane potrzebne do odpalenia notatnika można pobrac [z tej strony](https://www.k
 
 Notatnik można odpalić za pomocą Anacondy [tutaj link do anacondy](https://www.anaconda.com/distribution/)
 
+Plik notatnika wrzucasz do foldera z danymi i odpalasz za pomoca anacondy
+
 
