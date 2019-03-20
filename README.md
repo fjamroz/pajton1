@@ -1,4 +1,4 @@
-Projekt tworzony w ramach przedmiotu "Łączność danych" 
+Projekt tworzony w ramach przedmiotu "Eksploracji danych" 
 
 Dane potrzebne do odpalenia notatnika można pobrac [z tej strony](https://www.kaggle.com/START-UMD/gtd) tam u góry jest taki przycisk 'Download (28MB)'
 
